@@ -6,6 +6,16 @@
 
 This project sought to explore hospital readmissions in 57 California Counties from 2011 to 2022. The aim of this analysis was to identify counties with high readmissions and its relation to hospital admissions within the population. Insights gained from this analysis can be used to identify counties that require strategies and resources to reduce hospital readmissions. 
 
+<img width="1233" alt="Total HA" src="https://github.com/user-attachments/assets/e5d20fba-d1b0-41da-886a-ee8958f258fb" />
+
+<img width="1234" alt="Total HRR" src="https://github.com/user-attachments/assets/29719fb2-8f01-4d8e-a05e-947fe941e5b1" />
+
+<img width="1116" alt="HR Trend" src="https://github.com/user-attachments/assets/bd096c75-6632-4065-96b2-83ea686d0d5d" />
+
+<img width="1198" alt="Frequency" src="https://github.com/user-attachments/assets/d0afffe9-4618-4cd7-a4c9-ff31c44c8d23" />
+
+
+
 ### Data Sources 
 ---
 
