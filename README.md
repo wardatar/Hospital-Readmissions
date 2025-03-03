@@ -1,4 +1,4 @@
-# Trends in Hospital Readmissions Across California Counties (2011-2022)
+# Trends in Hospital Readmissions in California Counties (2011-2022)
 
 ### Project Overview
 
