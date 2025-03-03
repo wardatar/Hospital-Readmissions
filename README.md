@@ -14,6 +14,7 @@ This project sought to explore hospital readmissions in 57 California Counties f
 
 <img width="1198" alt="Frequency" src="https://github.com/user-attachments/assets/d0afffe9-4618-4cd7-a4c9-ff31c44c8d23" />
 
+<img width="1175" alt="correlation" src="https://github.com/user-attachments/assets/bc67ee26-510b-4741-ae01-6cc053811c97" />
 
 
 ### Data Sources 
