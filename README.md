@@ -53,7 +53,7 @@ SQL queries (Joins, Subqueries, IF function)  were used to identify counties wit
 1. The 10 counties with the highest hospital admissions were Los Angeles, San Diego, Orange, Riverside, San Bernardino, Sacramento, Santa Clara, Alameda, Contra Costa and Fresno with admissions ranging from 565,825 to 5,515,350.
 2. The 10 counties with the highest rate of hospital readmissions were Butte, Los Angeles, Lake, Alameda, Yuba, Fresno, Merced, San Joaquin, Contra Costa and San Bernadino with total hospital readmission rate ranging from 174.0 to 209.3 (2011- 2022).
 3. Counties with both highest readmission rate and total admissions were Los Angeles, Alameda, Fresno, Contra Costa and San Bernardino.
-4. The total readmission rate of 10 counties with the highest hospital readmissions during the period of study range from 144.2 in 2015 and 180.1 in 2022.
+4. The total readmission rate of 10 counties with the highest hospital readmissions during the period of study range from 144.2 in 2015 to 180.1 in 2022.
 5. The frequency of counties with the highest hospital readmissions over the period ranged from 1 to 12.
 6. The total number of counties that contributed to high hospital readmissions over the period was 29.
 7. Counties that contributed to high hospital readmissions more than two times were Butte, Los Angeles, Alameda, Lake, Yuba, San Bernardino, Merced, Fresno, Contra Costa, Imperial, Sacramento, San Joaquin, Napa, Colusa and Glenn.
