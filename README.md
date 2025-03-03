@@ -9,7 +9,7 @@ This project sought to explore hospital readmissions in 57 California Counties f
 ### Data Sources 
 ---
 
-The dataset used for this analysis is "Hospital Readmission Rates in California.csv" from kaggle datasets containing healthcare utilization, income, and population data for California counties between 2011-2022.[Download here](https://www.kaggle.com/datasets/joshhaber/hospital-readmission-rates-in-california )
+The dataset used for this analysis is "Hospital Readmission Rates in California.csv" from kaggle datasets containing healthcare utilization, income and population data for California counties between 2011-2022.[Download here](https://www.kaggle.com/datasets/joshhaber/hospital-readmission-rates-in-california )
 
 ### Tools
 ---
