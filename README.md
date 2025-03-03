@@ -64,4 +64,19 @@ SQL queries (Joins, Subqueries, IF function)  were used to identify counties wit
 ### Recommendations
 ---
 
+The following actions are recommended based on the analysis: 
+- Public Health interventions should be implemented as a proactive measure to curb increase in both hospital admissions and readmissions.
+- A study to investigate factors that contribute to hospital readmissions in counties with high readmission is recommended in order to identify strategies and resources required to reduce hospital readmissions.
+- A study to investigate the trend of Per Capita Personal Income in counties and the extent of its influence on both hospital admissions and readmissions is recommended.
 
+### Limitations 
+---
+
+Information on 1 County of California (San Francisco) was not available at the time of analysis and could not be included in the analysis.  
+
+### References 
+---
+
+1. Haber, J. (2021). Hospital Readmission Rates in California. Kaggle. Available at: https://www.kaggle.com/datasets/joshhaber/hospital-readmission-rates-in-california
+2. Bureau of Economic Analysis (BEA). (2012). Local Area Personal Income: 2009-2011. Available at: https://www.bea.gov/index.php/news/2012/local-area-personal-income-2009-2011
+3. Bureau of Economic Analysis (BEA). (2016). Local Area Personal Income: 2015. Available at: https://apps.bea.gov/scb/pdf/2016/12%20December/1216_local_area_personal_income.pdf?_gl=1*1pvgg35*_ga*MjA3NjA3NDUyMS4xNzQwNTk0NjM4*_ga_J4698JNNFT*MTc0MDY0Njg4NC41LjEuMTc0MDY0NzIwNS44LjAuMA.. 
