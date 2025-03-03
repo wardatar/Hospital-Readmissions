@@ -24,6 +24,13 @@ The following tasks were performed during the data preparation stage
 - Data loading and Inspection 
 - Data Cleaning and Formatting
 
+### Data Analysis
+---
+
+SQL queries (Joins, Subqueries, IF function)  were used to identify counties with high readmissions rates, frequency of high readmissions as well as trends over the period. Example of SQL queries used were:
+
+``` SELECT A.County, A.Total_adm, B.Total_Readm FROM county_adm AS A INNER JOIN county_readm as B ON A.County= B.County; ```
+
   ### Questions
 ---
 
@@ -37,3 +44,5 @@ The following tasks were performed during the data preparation stage
 8. What counties experienced very high readmissions among the 29 high readmission counties (Threshold- Frequency above or below 5)?
 9. What counties among the 29 high readmission counties are below the threshold (Threshold- Frequency above or below 5)?
 10. What is the Per Capita Personal Income of the counties that had most readmission over the period against the national Per Capita Personal Income?  
+
+
