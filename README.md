@@ -1,4 +1,4 @@
-# Hospital Readmissions in Calfornia Counties (2011-2022)
+# Trends in Hospital Readmissions Across California Counties (2011-2022)
 
 ### Project Overview
 
@@ -9,4 +9,31 @@ This project sought to explore hospital readmissions in 57 California Counties f
 ### Data Sources 
 ---
 
-The dataset used for this analysis is "Hospital Readmission Rates in California.csv" from kaggle datasets containing healthcare utilization, income, and population data for California counties between 2011-2022.
+The dataset used for this analysis is "Hospital Readmission Rates in California.csv" from kaggle datasets containing healthcare utilization, income, and population data for California counties between 2011-2022.[Download here](https://www.kaggle.com/datasets/joshhaber/hospital-readmission-rates-in-california )
+
+### Tools
+---
+
+- SQL (MySQLWorkbench) - Data Cleaning and Formatting 
+- SQL (MySQLWorkbench) - Analysis of Data using SQL queries (Joins, Subqueries, IF function) 
+- Power Bi- Data Visualization 
+
+### Data Cleaning/Preparations
+---
+The following tasks were performed during the data preparation stage 
+- Data loading and Inspection 
+- Data Cleaning and Formatting
+
+  ### Questions
+---
+
+1. Which 10 Counties had the highest hospital admissions and their total number of admissions from 2011 to 2022?
+2. Which 10 Counties had the highest rate of hospital readmissions and their total readmissions rate from 2011 to 2022?
+3. Which counties had both highest total readmission rate and admission?
+4. What is the total readmission rate of 10 counties with the highest hospital readmissions during the period of study (2011 to 2022)?
+5. What is the frequency of counties with the highest hospital readmissions over the period?
+6. What is the total number of counties that contributed to high hospital readmissions?
+7. Which counties contributed to high hospital readmissions more than two times?
+8. What counties experienced very high readmissions among the 29 high readmission counties (Threshold- Frequency above or below 5)?
+9. What counties among the 29 high readmission counties are below the threshold (Threshold- Frequency above or below 5)?
+10. What is the Per Capita Personal Income of the counties that had most readmission over the period against the national Per Capita Personal Income?  
