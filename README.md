@@ -57,7 +57,7 @@ SQL queries (Joins, Subqueries, IF function)  were used to identify counties wit
 5. The frequency of counties with the highest hospital readmissions over the period ranged from 1 to 12.
 6. The total number of counties that contributed to high hospital readmissions over the period was 29.
 7. Counties that contributed to high hospital readmissions more than two times were Butte, Los Angeles, Alameda, Lake, Yuba, San Bernardino, Merced, Fresno, Contra Costa, Imperial, Sacramento, San Joaquin, Napa, Colusa and Glenn.
-8. Of the 29 counties that contributed to high hospital readmissions over the period, 9 counties experienced very high readmissions being with frequency ranging from 6 to 12.
+8. Of the 29 counties that contributed to high hospital readmissions over the period, 9 counties experienced very high readmissions with frequency ranging from 6 to 12.
 9. Of the 29 counties that contributed to high hospital readmissions over the period, 20 counties were below the frequency threshold of 5; with frequency ranging from 1 to 4.
 10. For counties that had most readmission over the period, some had Per Capita Personal Income above the national Per Capita Personal Income while others were below.
 
